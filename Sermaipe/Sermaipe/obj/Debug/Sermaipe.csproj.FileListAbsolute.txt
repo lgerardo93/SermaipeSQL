@@ -1,0 +1,81 @@
+C:\Users\LGerardo\Dropbox\Administracion de Base de datos\Proyecto_1\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe.config
+C:\Users\LGerardo\Dropbox\Administracion de Base de datos\Proyecto_1\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe
+C:\Users\LGerardo\Dropbox\Administracion de Base de datos\Proyecto_1\Sermaipe\Sermaipe\bin\Debug\Sermaipe.pdb
+C:\Users\LGerardo\Dropbox\Administracion de Base de datos\Proyecto_1\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csprojResolveAssemblyReference.cache
+C:\Users\LGerardo\Dropbox\Administracion de Base de datos\Proyecto_1\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Principal.resources
+C:\Users\LGerardo\Dropbox\Administracion de Base de datos\Proyecto_1\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Properties.Resources.resources
+C:\Users\LGerardo\Dropbox\Administracion de Base de datos\Proyecto_1\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csproj.GenerateResource.Cache
+C:\Users\LGerardo\Dropbox\Administracion de Base de datos\Proyecto_1\Sermaipe\Sermaipe\obj\Debug\Sermaipe.exe
+C:\Users\LGerardo\Dropbox\Administracion de Base de datos\Proyecto_1\Sermaipe\Sermaipe\obj\Debug\Sermaipe.pdb
+C:\Users\LGerardo\Dropbox\Base de Datos B\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe.config
+C:\Users\LGerardo\Dropbox\Base de Datos B\Sermaipe\Sermaipe\obj\Debug\Sermaipe.exe
+C:\Users\LGerardo\Dropbox\Base de Datos B\Sermaipe\Sermaipe\obj\Debug\Sermaipe.pdb
+C:\Users\LGerardo\Dropbox\Base de Datos B\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe
+C:\Users\LGerardo\Dropbox\Base de Datos B\Sermaipe\Sermaipe\bin\Debug\Sermaipe.pdb
+C:\Users\LGerardo\Dropbox\Base de Datos B\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csprojResolveAssemblyReference.cache
+C:\Users\LGerardo\Dropbox\Base de Datos B\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Principal.resources
+C:\Users\LGerardo\Dropbox\Base de Datos B\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Properties.Resources.resources
+C:\Users\LGerardo\Dropbox\Base de Datos B\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csproj.GenerateResource.Cache
+C:\Users\Guma\Downloads\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe.config
+C:\Users\Guma\Downloads\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe
+C:\Users\Guma\Downloads\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.pdb
+C:\Users\Guma\Downloads\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csprojResolveAssemblyReference.cache
+C:\Users\Guma\Downloads\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Principal.resources
+C:\Users\Guma\Downloads\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Properties.Resources.resources
+C:\Users\Guma\Downloads\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csproj.GenerateResource.Cache
+C:\Users\Guma\Downloads\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.exe
+C:\Users\Guma\Downloads\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.pdb
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe.config
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.exe
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.pdb
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.pdb
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csprojResolveAssemblyReference.cache
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Principal.resources
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Properties.Resources.resources
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csproj.GenerateResource.Cache
+C:\Users\LGerardo\Desktop\PROYECTO-ABD_Karla\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe.config
+C:\Users\LGerardo\Desktop\PROYECTO-ABD_Karla\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.exe
+C:\Users\LGerardo\Desktop\PROYECTO-ABD_Karla\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.pdb
+C:\Users\LGerardo\Desktop\PROYECTO-ABD_Karla\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe
+C:\Users\LGerardo\Desktop\PROYECTO-ABD_Karla\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.pdb
+C:\Users\LGerardo\Desktop\PROYECTO-ABD_Karla\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csprojResolveAssemblyReference.cache
+C:\Users\LGerardo\Desktop\PROYECTO-ABD_Karla\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Principal.resources
+C:\Users\LGerardo\Desktop\PROYECTO-ABD_Karla\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Properties.Resources.resources
+C:\Users\LGerardo\Desktop\PROYECTO-ABD_Karla\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csproj.GenerateResource.Cache
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO-ABD_29-09-2016-8.15AM\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe.config
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO-ABD_29-09-2016-8.15AM\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.exe
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO-ABD_29-09-2016-8.15AM\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.pdb
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO-ABD_29-09-2016-8.15AM\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO-ABD_29-09-2016-8.15AM\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.pdb
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO-ABD_29-09-2016-8.15AM\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csprojResolveAssemblyReference.cache
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO-ABD_29-09-2016-8.15AM\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Principal.resources
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO-ABD_29-09-2016-8.15AM\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Properties.Resources.resources
+C:\Users\kolit_000\Documents\ADMIN. BASE DE DATOS\PROYECTO-ABD_29-09-2016-8.15AM\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csproj.GenerateResource.Cache
+C:\Users\kolit_000\Documents\ADMINBD\PROYECTO-ABD-ACTUAL\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe.config
+C:\Users\kolit_000\Documents\ADMINBD\PROYECTO-ABD-ACTUAL\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.exe
+C:\Users\kolit_000\Documents\ADMINBD\PROYECTO-ABD-ACTUAL\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.pdb
+C:\Users\kolit_000\Documents\ADMINBD\PROYECTO-ABD-ACTUAL\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csprojResolveAssemblyReference.cache
+C:\Users\kolit_000\Documents\ADMINBD\PROYECTO-ABD-ACTUAL\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Principal.resources
+C:\Users\kolit_000\Documents\ADMINBD\PROYECTO-ABD-ACTUAL\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Properties.Resources.resources
+C:\Users\kolit_000\Documents\ADMINBD\PROYECTO-ABD-ACTUAL\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csproj.GenerateResource.Cache
+C:\Users\kolit_000\Documents\ADMINBD\PROYECTO-ABD-ACTUAL\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe
+C:\Users\kolit_000\Documents\ADMINBD\PROYECTO-ABD-ACTUAL\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.pdb
+C:\Users\LGerardo\Desktop\Proyecto1_SERMAIPE\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe.config
+C:\Users\LGerardo\Desktop\Proyecto1_SERMAIPE\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.exe
+C:\Users\LGerardo\Desktop\Proyecto1_SERMAIPE\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.pdb
+C:\Users\LGerardo\Desktop\Proyecto1_SERMAIPE\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe
+C:\Users\LGerardo\Desktop\Proyecto1_SERMAIPE\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.pdb
+C:\Users\LGerardo\Desktop\Proyecto1_SERMAIPE\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csprojResolveAssemblyReference.cache
+C:\Users\LGerardo\Desktop\Proyecto1_SERMAIPE\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Principal.resources
+C:\Users\LGerardo\Desktop\Proyecto1_SERMAIPE\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Properties.Resources.resources
+C:\Users\LGerardo\Desktop\Proyecto1_SERMAIPE\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csproj.GenerateResource.Cache
+C:\Users\LGerardo-PC\Desktop\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Principal.resources
+C:\Users\LGerardo-PC\Desktop\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.Properties.Resources.resources
+C:\Users\LGerardo-PC\Desktop\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csproj.GenerateResource.Cache
+C:\Users\LGerardo-PC\Desktop\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe.config
+C:\Users\LGerardo-PC\Desktop\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.exe
+C:\Users\LGerardo-PC\Desktop\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\bin\Debug\Sermaipe.pdb
+C:\Users\LGerardo-PC\Desktop\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.csprojResolveAssemblyReference.cache
+C:\Users\LGerardo-PC\Desktop\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.exe
+C:\Users\LGerardo-PC\Desktop\sermaipe-version-geras\PROYECTO ABD\Sermaipe\Sermaipe\obj\Debug\Sermaipe.pdb
